@@ -11,6 +11,6 @@ This repository is a storage place for the items needed to rebuild the DB.   The
 
 4.Create a set of ETL jobs that import the current production data into the new schema.
 
-5. Import existing data into new schema.   We have our new DB
+
 
 
